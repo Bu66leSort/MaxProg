@@ -1,0 +1,9 @@
+E:\Projects C#\Lineika\InputSymbol\bin\Debug\InputSymbol.dll
+E:\Projects C#\Lineika\InputSymbol\bin\Debug\InputSymbol.pdb
+E:\Projects C#\Lineika\InputSymbol\bin\Debug\Lineika.exe
+E:\Projects C#\Lineika\InputSymbol\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projects C#\Lineika\InputSymbol\bin\Debug\Lineika.pdb
+E:\Projects C#\Lineika\InputSymbol\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Projects C#\Lineika\InputSymbol\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+E:\Projects C#\Lineika\InputSymbol\obj\Debug\InputSymbol.dll
+E:\Projects C#\Lineika\InputSymbol\obj\Debug\InputSymbol.pdb

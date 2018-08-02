@@ -1,0 +1,6 @@
+E:\Projects C#\Lineika\Lineika\bin\Debug\Lineika.exe.config
+E:\Projects C#\Lineika\Lineika\bin\Debug\Lineika.exe
+E:\Projects C#\Lineika\Lineika\bin\Debug\Lineika.pdb
+E:\Projects C#\Lineika\Lineika\obj\Debug\Lineika.csprojResolveAssemblyReference.cache
+E:\Projects C#\Lineika\Lineika\obj\Debug\Lineika.exe
+E:\Projects C#\Lineika\Lineika\obj\Debug\Lineika.pdb
