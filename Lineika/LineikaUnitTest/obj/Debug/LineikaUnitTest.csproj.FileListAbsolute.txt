@@ -1,0 +1,7 @@
+E:\Projects C#\Lineika\LineikaUnitTest\bin\Debug\LineikaUnitTest.dll
+E:\Projects C#\Lineika\LineikaUnitTest\bin\Debug\LineikaUnitTest.pdb
+E:\Projects C#\Lineika\LineikaUnitTest\bin\Debug\Lineika.exe
+E:\Projects C#\Lineika\LineikaUnitTest\bin\Debug\Lineika.pdb
+E:\Projects C#\Lineika\LineikaUnitTest\obj\Debug\LineikaUnitTest.csprojResolveAssemblyReference.cache
+E:\Projects C#\Lineika\LineikaUnitTest\obj\Debug\LineikaUnitTest.dll
+E:\Projects C#\Lineika\LineikaUnitTest\obj\Debug\LineikaUnitTest.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lineika
 {
-    class DiscriminantFinder
+    public class DiscriminantFinder
     {
         public static int GetDiscriminant(int[] obj)
         {

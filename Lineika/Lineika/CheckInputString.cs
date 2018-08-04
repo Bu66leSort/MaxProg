@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 
 namespace Lineika
 {
-    class CheckInputString
+    public class CheckInputString
     {
         public static bool IsCorrectString(string obj)
         {

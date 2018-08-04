@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lineika
 {
-    class CoefficientsFromInputString
+    public class CoefficientsFromInputString
     {
         public static int[] GetCoefficients(string str)
         {

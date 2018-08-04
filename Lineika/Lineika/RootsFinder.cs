@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lineika
 {
-    class RootsFinder
+    public class RootsFinder
     {
         public delegate int discriminantFunc(int[] coefs);  // why??? BECAUSE I WANT
 
