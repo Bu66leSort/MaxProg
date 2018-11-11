@@ -1,0 +1,8 @@
+c:\users\proko\documents\visual studio 2015\Projects\BodyShop\BodyShop\bin\Debug\BodyShop.exe.config
+c:\users\proko\documents\visual studio 2015\Projects\BodyShop\BodyShop\bin\Debug\BodyShop.exe
+c:\users\proko\documents\visual studio 2015\Projects\BodyShop\BodyShop\bin\Debug\BodyShop.pdb
+c:\users\proko\documents\visual studio 2015\Projects\BodyShop\BodyShop\obj\Debug\BodyShop.csprojResolveAssemblyReference.cache
+c:\users\proko\documents\visual studio 2015\Projects\BodyShop\BodyShop\obj\Debug\BodyShop.exe
+c:\users\proko\documents\visual studio 2015\Projects\BodyShop\BodyShop\obj\Debug\BodyShop.pdb
+C:\Users\proko\documents\visual studio 2015\Projects\BodyShop\BodyShop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\proko\documents\visual studio 2015\Projects\BodyShop\BodyShop\bin\Debug\Newtonsoft.Json.xml
