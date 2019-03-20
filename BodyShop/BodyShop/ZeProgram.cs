@@ -82,9 +82,7 @@ namespace BodyShop
 
             Process.Start(@"C:\Users\proko\Desktop\Json\BodyShop.txt");
 
-            //Process.Start("E:\\Programs\\parahsa\\LeagueClient.exe"); ха ару
-            //Process.Start("https://yandex.ru/search/?text=гей%20порно&clid=2270455&banerid=0500000134%3A5b324ca33f07be002b40af53&win=339&lr=216");
-
+           
         }
     }
 }
